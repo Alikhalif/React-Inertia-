@@ -88,7 +88,7 @@ export default function Authenticated({ auth, header, children }) {
                             </button>
                         </div>
                     </div>
-                </div>
+                </div> 
 
                 <div className={(showingNavigationDropdown ? 'block' : 'hidden') + ' sm:hidden'}>
                     <div className="pt-2 pb-3 space-y-1">
